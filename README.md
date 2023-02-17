@@ -19,3 +19,6 @@ Bu projenin tüm hakları ben Betül Akşan'a,  302 sabah grubu sınıfımın ö
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 
+<img width="953" alt="01" src="https://user-images.githubusercontent.com/94163797/219572540-abd005fc-65f3-4be0-b576-0d21f0902b80.png">
+<img width="960" alt="02" src="https://user-images.githubusercontent.com/94163797/219572552-edf5e923-5112-4529-93b3-a99fe2b277b3.png">
+<img width="960" alt="03" src="https://user-images.githubusercontent.com/94163797/219572558-1bc3befc-494b-498a-95ce-6ee726aa3e69.png">
